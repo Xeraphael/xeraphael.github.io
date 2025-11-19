@@ -4,6 +4,7 @@ navbar_name: "Li Chenxi"
 
 positions:
 - name: Ph.D. Student
+- name: Zhejiang University
 
 
 email: "lichenxi@pjlab.org.cn"
@@ -19,7 +20,7 @@ wechat_qrcode: /assets/images/photos/wechat.png
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! I am an incoming Ph.D. student in the College of Computer Science and Technology at Zhejiang University, supervised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Ox6SxpoAAAAJ" target="_blank">Zhou Dongzhan</a>. I am also a joint research intern at the Shanghai Artificial Intelligence Laboratory.
+    Hi! I am an incoming Ph.D. student in the College of Computer Science and Technology at Zhejiang University, supervised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Ox6SxpoAAAAJ" target="_blank">Dongzhan Zhou</a>. I am also a joint research intern at the Shanghai Artificial Intelligence Laboratory.
   </p>
   <p>
     My research interests lie in embodied intelligence, computer vision, and multi-agent systems.
