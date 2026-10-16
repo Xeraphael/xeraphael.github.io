@@ -26,4 +26,6 @@ authors:
 - Huajun Chen
 links:
   Paper: https://arxiv.org/pdf/2606.13578
+  Website: https://zjunlp.github.io/LabVLA/
+  Code: https://github.com/zjunlp/LabVLA
 ---

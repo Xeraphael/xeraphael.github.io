@@ -26,4 +26,6 @@ authors:
 - Dongzhan Zhou
 links:
   Paper: https://arxiv.org/pdf/2605.02288
+  Website: https://che-0212.github.io/LabBuilder-site/
+  Code: https://github.com/che-0212/LabBuilder
 ---
